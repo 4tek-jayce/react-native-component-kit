@@ -1,6 +1,6 @@
 {
-  "name": "react-native-component-kit",
-  "version": "0.1.0",
+  "name": "@4tek-jayce/react-native-component-kit",
+  "version": "0.0.1",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -40,7 +40,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/4tek-jayce/react-native-component-kit",
+  "repository": "https://github.com/4tek-jayce/react-native-component-kit.git",
   "author": "Jayce <jayce@4tek.io> (https://github.com/4tek-jayce)",
   "license": "MIT",
   "bugs": {
@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/4tek-jayce/react-native-component-kit#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry":"https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
