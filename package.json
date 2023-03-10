@@ -1,5 +1,5 @@
 {
-  "name": "@4tek-jayce/react-native-component-kit",
+  "name": "react-native-component-kit",
   "version": "0.0.1",
   "description": "test",
   "main": "lib/commonjs/index",

@@ -9,12 +9,13 @@ const AppText = (props: TextProps) => {
       {children}
     </Text>
   );
-}
+};
 
 export default AppText;
 
 const styles = StyleSheet.create({
   text: {
     color: 'purple',
+    fontSize: 18,
   },
 });
